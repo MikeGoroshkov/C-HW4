@@ -1,0 +1,15 @@
+/home/minim/Документы/C#/hw4/29/bin/Debug/net6.0/29
+/home/minim/Документы/C#/hw4/29/bin/Debug/net6.0/29.deps.json
+/home/minim/Документы/C#/hw4/29/bin/Debug/net6.0/29.runtimeconfig.json
+/home/minim/Документы/C#/hw4/29/bin/Debug/net6.0/29.dll
+/home/minim/Документы/C#/hw4/29/bin/Debug/net6.0/29.pdb
+/home/minim/Документы/C#/hw4/29/obj/Debug/net6.0/29.csproj.AssemblyReference.cache
+/home/minim/Документы/C#/hw4/29/obj/Debug/net6.0/29.GeneratedMSBuildEditorConfig.editorconfig
+/home/minim/Документы/C#/hw4/29/obj/Debug/net6.0/29.AssemblyInfoInputs.cache
+/home/minim/Документы/C#/hw4/29/obj/Debug/net6.0/29.AssemblyInfo.cs
+/home/minim/Документы/C#/hw4/29/obj/Debug/net6.0/29.csproj.CoreCompileInputs.cache
+/home/minim/Документы/C#/hw4/29/obj/Debug/net6.0/29.dll
+/home/minim/Документы/C#/hw4/29/obj/Debug/net6.0/refint/29.dll
+/home/minim/Документы/C#/hw4/29/obj/Debug/net6.0/29.pdb
+/home/minim/Документы/C#/hw4/29/obj/Debug/net6.0/29.genruntimeconfig.cache
+/home/minim/Документы/C#/hw4/29/obj/Debug/net6.0/ref/29.dll
